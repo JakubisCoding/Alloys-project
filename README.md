@@ -1,2 +1,2 @@
 # Alloys-project
-research data on the composition and properties of steel alloys
+The task will be to research data on the composition and properties of steel alloys. The data should be collected from opensource databases like MatWeb via some web parsing frameworks (for instance: Scrapy). There are small reference samples of data from kaggle. The opportunities for this project are Machine Learning models for prediction of steel properties. The data collected will be used to develop machine learning models to help predict the properties of different steel alloys.
